@@ -1,10 +1,3 @@
-# 1.-Online-Learning-Management-System
-To create a professional and comprehensive README for your **Online Learning Management System**, I have structured the content below based on the common architecture of such platforms.
-
-You can copy and paste this into your `README.md` file.
-
----
-
 # Online Learning Management System (LMS)
 
 A comprehensive, web-based Learning Management System designed to facilitate seamless online education. This platform empowers instructors to create and manage courses while providing students with an interactive environment to learn, track progress, and achieve certifications.
