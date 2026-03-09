@@ -79,16 +79,6 @@ npm start
 
 ```
 
-
-
-## 📸 Screenshots
-
-*(Pro-tip: Add images from your project's `assets` folder or host them online to make the README pop!)*
-
-* *Login Page*
-* *Student Dashboard*
-* *Course Viewer*
-
 ## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
